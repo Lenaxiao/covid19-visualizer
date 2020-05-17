@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project is to visualize COVID-19 confirmed, recovered and deaths cases in order to provide insight to people who might be interested in current trend. It is built on React.js, and charts are built using chart.js.
+![glance at global trend](https://github.com/Lenaxiao/covid19-visualizer/blob/master/snapshot/global.png)
+![glance at trend for each country](https://github.com/Lenaxiao/covid19-visualizer/blob/master/snapshot/example.png)
+## You can play with Demo [here](https://lenaxiao.github.io/covid19-visualizer/)
 
 ## Available Scripts
 
